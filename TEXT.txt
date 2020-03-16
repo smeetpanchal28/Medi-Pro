@@ -1,0 +1,15 @@
+1. CMS template -> admin me se fonts,js,css teeno copy and OOP_PHP me paste.
+2. Login form(css include krna hai).
+3. Database file create kiya
+4. User file create kiya 
+5. Functions.php create kiya and then login.php me upper chnges kiya (php tag k andar pura).
+5. student.php 
+6. Student.php
+    - add_student.php
+    -manage_student.php
+7.student jaisa Same Branch k liye krna hai toh
+8. create branch.php usme switch case me add-branch ad manage-branch
+9. create class file Branch.php jisme insert and retrive ka code rahe database vala
+10.manage-branch same as manage-student sirf rows and columns chnge honge 
+11.And scripts n css sab jaisa student me h voi same jagah add krna h.
+12.Aur branch.php me scripts add ki h And manage-branch uske throgh call horay toh pehle browser p branch.php ko hi call krneka.

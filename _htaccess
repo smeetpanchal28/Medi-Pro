@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(index|student|registration|login)$ $1.php [NC,L]
